@@ -15,7 +15,7 @@ The code for each section of the course is located in a separate file.
 * Analyzing bounce rates and lading page tests
 * Building conversion funnels and testing conversion paths
 
-Section 6: Mid-Course Project
+[Section 6: Mid-Course Project](Section_6_Mid_Course_Project.sql)
 
 [Section 7: Analysis for Channel Portfolio Management](Section_7.sql)
 * Analyzing channel portfolios
@@ -37,4 +37,4 @@ Section 6: Mid-Course Project
 [Section 10: User Analysis](Section_10.sql)
 * Analyzing repeat visit and purchase behavior
 
-Section 11: Final Project
+[Section 11: Final Project](Section_11_Final_Project.sql)
